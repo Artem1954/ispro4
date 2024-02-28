@@ -1,0 +1,75 @@
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\App.g.cs
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\chann\Downloads\Telegram Desktop\02\01\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ИСРПО\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\App.g.cs
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\MainWindow.baml
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\App.g.cs
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\MainWindow.baml
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\ИСРПО Кузнецов\Лабораторная работа№1\WpfApp1\obj\Debug\WpfApp1.pdb

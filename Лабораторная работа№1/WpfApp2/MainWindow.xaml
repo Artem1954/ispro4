@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Кол-во этажей:" HorizontalAlignment="Left" Margin="41,46,0,0" VerticalAlignment="Top" Width="100" Height="26"/>
+        <TextBox x:Name="TextBoxMaxFloor" HorizontalAlignment="Left" Height="23" Margin="146,49,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="36" KeyDown="TextBox_KeyDown"/>
+        <Button Click="CreateElevator" Content="Создать лифт" HorizontalAlignment="Left" Margin="41,88,0,0" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.04,-0.406" Height="19"/>
+
+        <Image x:Name="ImageElveator" HorizontalAlignment="Left" Height="316" Margin="254,70,0,0" VerticalAlignment="Top" Width="244"/>
+
+        <Label x:Name="lable_curentFloor" Content="ЭТАЖ: 1" HorizontalAlignment="Left" Margin="341,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.391,0.688"/>
+        <Label Content="Целевой этаж:" HorizontalAlignment="Left" Margin="617,120,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TargetFoorTextBox" HorizontalAlignment="Left" Height="23" Margin="712,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="29" KeyDown="TextBox_KeyDown"/>
+        <Button x:Name="Go" Click="StartElevator" Content="Поехали!" HorizontalAlignment="Left" Margin="617,160,0,0" VerticalAlignment="Top" Width="124"/>
+        <Button Click="OpenDoorClick" Content="Открыть двери" HorizontalAlignment="Left" Margin="617,216,0,0" VerticalAlignment="Top" Width="124"/>
+        <Button Click="CloseDoorClick" Content="Закрыть двери" HorizontalAlignment="Left" Margin="617,240,0,0" VerticalAlignment="Top" Width="124"/>
+
+        <StackPanel x:Name="btnPanel" HorizontalAlignment="Left" Height="333" Margin="469,25,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>
